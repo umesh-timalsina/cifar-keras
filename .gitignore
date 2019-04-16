@@ -1,0 +1,10 @@
+./__pycache__/
+__pycache__
+./__pycache__/*
+./model
+model
+model/*
+./.vscode
+.vscode
+./vscode/*
+
